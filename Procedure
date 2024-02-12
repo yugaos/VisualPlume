@@ -1,1 +1,2 @@
-Step 1: 
+Step 1: ctd_read_akva_main                               %  read CTD files from the excel sheet which is created by adFontes
+Step 2: ctd2depth_main                                   %  extract CTD data for given depths
